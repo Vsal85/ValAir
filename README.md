@@ -1,2 +1,2 @@
 # ValAir
-Validation algorism in CitiObs
+Validation algorithm in CitiObs
